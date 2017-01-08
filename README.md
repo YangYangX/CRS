@@ -8,7 +8,7 @@
   - public version only support one crs:AccountReport in account group.
   - commercial version has no limiations with free support.
   
-for more information, please contact the author <yangyangwsws[at]gmail.com>.
+for more information, please contact the author \<yangyangwsws[at]gmail.com\>.
 
 ## install
 ## development
